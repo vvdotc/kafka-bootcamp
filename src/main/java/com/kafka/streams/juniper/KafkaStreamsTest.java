@@ -1,4 +1,4 @@
-package com.kafka.streams.hsbc;
+package com.kafka.streams.juniper;
 
 import java.io.FileReader;
 import java.io.IOException;

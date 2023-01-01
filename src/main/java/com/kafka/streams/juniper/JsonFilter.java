@@ -1,4 +1,4 @@
-package com.kafka.streams.hsbc;
+package com.kafka.streams.juniper;
 
 //import com.fasterxml.jackson.core.JsonProcessingException;
 //import com.fasterxml.jackson.databind.JsonMappingException;
